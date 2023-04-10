@@ -18,7 +18,7 @@ I have had the opportunity to work on several projects where I have utilized too
 
 I am committed to applying my knowledge and skills to solve real-world problems and help businesses make informed data-driven decisions.
 
-If you have any questions, suggestions, or would simply like to connect, please don't hesitate to contact me. I am excited to meet and collaborate with other professionals in this exciting field.
+If you have any questions, suggestions, or would simply like to connect, please don't hesitate to contact me. I am excited to meet and collaborate with other professionals in this field.
 <!--
 **JordiRoigde/JordiRoigde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
