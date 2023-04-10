@@ -2,6 +2,7 @@
   <img src="https://github.com/JordiRoigde/JordiRoigde/blob/main/assets/gif_github-min.gif">
 </p>
 ### Hi there 👋
+<a href="[https://www.linkedin.com/in/mathieu-ledru](https://www.linkedin.com/in/jordi-roig-de-la-rosa-69632a54/)"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 
 <!--
 **JordiRoigde/JordiRoigde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
