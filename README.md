@@ -5,8 +5,8 @@
 ## :link: Links
 <p align="center">
 <a href="mailto:jordi.roigde@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-<a href="[https://www.linkedin.com/in/mathieu-ledru](https://www.linkedin.com/in/jordi-roig-de-la-rosa-69632a54/)"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="[https://www.instagram.com/matyo91](https://www.instagram.com/jordi.roigde/)"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+<a href="https://www.linkedin.com/in/jordi-roig-de-la-rosa-69632a54/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.instagram.com/jordi.roigde/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 </p>
 
 ### Hi there 👋
