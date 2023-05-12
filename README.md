@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/JordiRoigde/JordiRoigde/blob/main/assets/gif_github-min.gif">
 </p>
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
@@ -14,6 +15,7 @@
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/Mathematica-DD1100.svg?&style=for-the-badge&logo=Wolfram%20Mathematica&logoColor=white)
+
 ## :link: Links
 <p align="center">
 <a href="mailto:jordi.roigde@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
